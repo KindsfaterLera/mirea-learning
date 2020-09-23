@@ -5,7 +5,7 @@ public abstract class Dog{
     private String color;
     private int age;
 
-    public Dog(String name, int age){
+    public Dog(String name, String breed, String color, int age){
         this.name = name;
         this.breed = breed;
         this.color = color;
