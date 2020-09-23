@@ -15,10 +15,10 @@ public abstract class Dog{
     public String getName(){
         return name;
     }
-    public String getName(){
+    public String getBreed(){
         return breed;
     }
-    public String getName(){
+    public String getColor(){
         return color;
     }
     public int setAge(){
